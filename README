@@ -1,0 +1,15 @@
+Beamer-flex is an adaptation of the LyX layout for the Beamer document class that uses Flex Insets for Frames, for Columns, and for Blocks, instead of paragraph environments.
+
+Installation
+------------
+
+Place `beamer-flex.inc`, `beamer-flex.layout`, and `beamer-flex.module` in your layouts directory.
+
+Use
+---
+
+* For a new presentation, select the document class Beamer (flex insets).
+
+* To adapt an existing document that uses the Beamer layout, select the module Beamer (flex).
+
+See the manual and example Beamer-flex.lyx.
