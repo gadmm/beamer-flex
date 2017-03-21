@@ -16,4 +16,4 @@ See the manual and example `Beamer-flex.lyx`.
 
 ## License
 
-GNU GPL v2. See `COPYING`.
+GNU GPL v2. See `LICENSE`.
