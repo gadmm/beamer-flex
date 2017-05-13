@@ -179,3 +179,39 @@ End
 Style Subsection*
   NextNoIndent 0
 End
+
+Style Corollary
+   KeepEmpty   0
+End
+
+Style Definition
+   KeepEmpty   0
+End
+
+Style Definitions
+   KeepEmpty   0
+End
+
+Style Example
+   KeepEmpty   0
+End
+
+Style Examples
+   KeepEmpty   0
+End
+
+Style Fact
+   KeepEmpty   0
+End
+
+Style Lemma
+   KeepEmpty   0
+End
+
+Style Proof
+   KeepEmpty   0
+End
+
+Style Theorem
+   KeepEmpty   0
+End
